@@ -1,12 +1,12 @@
 # Víctor Soto
-**Founder & Técnico Fraccional | Arquitectura en Ruby on Rails 8** | vhsotoing@gmail.com
+**Founder & Fractional CTO | Ruby on Rails 8 Architecture** | vhsotoing@gmail.com
 
-Soy el fundador técnico de [Licitador.co](https://licitador.co), un SaaS B2B (GovTech) construido sobre **Ruby on Rails 8**. Mi especialidad es diseñar arquitecturas capaces de ingerir, procesar y analizar datos complejos (como los de contratación pública) para convertirlos en herramientas que aumentan el éxito comercial de las empresas.
+I am the technical founder of [Licitador.co](https://licitador.co), a B2B SaaS (GovTech) built on **Ruby on Rails 8**. My specialty lies in designing architectures capable of ingesting, processing, and analyzing complex data—such as public procurement records—and transforming it into tools that boost companies' commercial success.
 
-Actualmente opero como socio técnico asíncrono para startups en Europa y EE. UU. 
+I currently serve as an asynchronous technical partner for startups across Europe and the U.S.
 
-### Mi flujo de trabajo
-No opero como un desarrollador tradicional. Utilizo inteligencia artificial (Cursor / Claude) para orquestar la generación rápida de código base, lo que me permite invertir el 100% de mi ancho de banda en lo que realmente rompe los productos:
-- 🏗️ **Arquitectura de Datos Compleja:** PostgreSQL, procesamiento de alto volumen, *scraping* y motores de búsqueda.
-- ⚙️ **Rendimiento y Escalabilidad:** Hotwire, Soli Queue/Sidekiq (Background jobs pesados) y optimización de flujos B2B.
-- 🛡️ **Seguridad y Despliegues:** Revisiones estrictas de PRs, CI/CD y entregas continuas.
+### My Workflow
+I do not operate as a traditional developer. I leverage artificial intelligence (Cursor / Claude) to orchestrate the rapid generation of boilerplate code, allowing me to dedicate 100% of my bandwidth to the elements that truly make or break a product:
+- 🏗️ **Complex Data Architecture:** PostgreSQL, high-volume processing, web scraping, and search engines.
+- ⚙️ **Performance & Scalability:** Hotwire, Solid Queue/Sidekiq (heavy background jobs), and B2B workflow optimization.
+- 🛡️ **Security & Deployment:** Rigorous PR reviews, CI/CD, and continuous delivery.
